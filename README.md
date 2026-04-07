@@ -31,5 +31,4 @@ Screenshot
 
 ![Screenshot](https://kx.studio/screenshots/carla.png)
 
-
 See the [official webpage](https://kx.studio/Applications:Carla) also.
